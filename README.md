@@ -13,3 +13,4 @@
 
 
 🤝 Connect with me:
+<a href="https://www.linkedin.com/in/KamilSynowiec/"><img align="left" src="https://raw.githubusercontent.com/KamilSynowiec/KamilSynowiec/main/icons/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
