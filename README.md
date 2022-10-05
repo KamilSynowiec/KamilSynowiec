@@ -9,3 +9,7 @@
 [![Kamil’s github stats](https://github-readme-stats.vercel.app/api?username=KamilSynowiec)](https://github.com/KamilSynowiec)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamilSynowiec&layout=compact)](https://github.com/KamilSynowiec)
+
+
+
+🤝 Connect with me:
