@@ -11,7 +11,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamilSynowiec&layout=compact)](https://github.com/KamilSynowiec)
 
 
-
 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/KamilSynowiec/"><img align="left" src="https://raw.githubusercontent.com/KamilSynowiec/KamilSynowiec/main/icons/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
